@@ -331,5 +331,5 @@ if (empty($_GET['filename']) || empty($_GET['host']) || empty($_GET['path'])) {
 		}
 		//echo '<script type="text/javascript">location.reload();</script>';
 	}
-	echo "\n</div>\n</body>\n</html>";
+	echo "\n</div>\n</body>\n<title>Leech By Misha (0x77)</title></html>";
 }
